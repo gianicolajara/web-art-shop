@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/web-art-shop/static/css/main.a617e044.chunk.css",
+    "main.js": "/web-art-shop/static/js/main.dee6f488.chunk.js",
+    "main.js.map": "/web-art-shop/static/js/main.dee6f488.chunk.js.map",
+    "runtime-main.js": "/web-art-shop/static/js/runtime-main.50d66d13.js",
+    "runtime-main.js.map": "/web-art-shop/static/js/runtime-main.50d66d13.js.map",
+    "static/js/2.c87340c5.chunk.js": "/web-art-shop/static/js/2.c87340c5.chunk.js",
+    "static/js/2.c87340c5.chunk.js.map": "/web-art-shop/static/js/2.c87340c5.chunk.js.map",
+    "static/js/3.4ecc22f1.chunk.js": "/web-art-shop/static/js/3.4ecc22f1.chunk.js",
+    "static/js/3.4ecc22f1.chunk.js.map": "/web-art-shop/static/js/3.4ecc22f1.chunk.js.map",
+    "index.html": "/web-art-shop/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/web-art-shop/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c87340c5.chunk.js.LICENSE.txt": "/web-art-shop/static/js/2.c87340c5.chunk.js.LICENSE.txt",
+    "static/media/aboutus.3f15ca0e.jpg": "/web-art-shop/static/media/aboutus.3f15ca0e.jpg",
+    "static/media/contact.df7f7b7c.jpg": "/web-art-shop/static/media/contact.df7f7b7c.jpg",
+    "static/media/heroe.3b408665.mp4": "/web-art-shop/static/media/heroe.3b408665.mp4",
+    "static/media/image-list-1.85c46ea2.jpg": "/web-art-shop/static/media/image-list-1.85c46ea2.jpg",
+    "static/media/image-list-2.ebbcaeb3.jpg": "/web-art-shop/static/media/image-list-2.ebbcaeb3.jpg",
+    "static/media/image-list-3.0c064327.jpg": "/web-art-shop/static/media/image-list-3.0c064327.jpg",
+    "static/media/image-list-4.d57902e1.jpg": "/web-art-shop/static/media/image-list-4.d57902e1.jpg",
+    "static/media/image-list-5.159703d6.jpg": "/web-art-shop/static/media/image-list-5.159703d6.jpg",
+    "static/media/image-list-6.99d3eba7.jpg": "/web-art-shop/static/media/image-list-6.99d3eba7.jpg",
+    "static/media/image-list-7.2872e9b7.jpg": "/web-art-shop/static/media/image-list-7.2872e9b7.jpg",
+    "static/media/image-list-8.464bbfd9.jpg": "/web-art-shop/static/media/image-list-8.464bbfd9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50d66d13.js",
+    "static/js/2.c87340c5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.dee6f488.chunk.js"
+  ]
+}
